@@ -4,6 +4,8 @@ Made by Amax Cheats
 
 Working for Growtopia V4.31 currently. Every new growtopia update requires a update of the cheat, so this one will not work if its outdated.
 
+just fyi, you might have to disable antivirus for this one to work.
+
 ### How to
 
 1. Download the file (it may tag it as a virus, you just have to allow the download)
